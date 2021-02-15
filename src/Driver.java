@@ -14,7 +14,6 @@ public class Driver {
 			System.out.println(d6.roll());
 			System.out.println(d10.roll());
 		}
-
 	}
 
 }
